@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.MainLayout"
+    android:background="@drawable/signin_background">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryDark">
+
+             <com.google.android.material.appbar.AppBarLayout
+                 android:id="@+id/appbar_layout"
+                 android:layout_width="match_parent"
+                 android:layout_height="50dp"
+                 android:background="@drawable/signin_background">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/card_bg"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/app_name"
+                    android:textAllCaps="true"
+                    android:textColor="#fff"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+             </com.google.android.material.appbar.AppBarLayout>
+
+        <ImageView
+            android:id="@+id/iv_image_holder"
+            android:layout_width="371dp"
+            android:layout_height="530dp"
+
+            android:layout_above="@+id/button_holder_layout"
+            android:layout_below="@+id/appbar_layout"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/tv_label"
+            android:layout_width="393dp"
+            android:layout_height="588dp"
+            android:layout_above="@+id/button_holder_layout"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:text="@string/no_image_selected" />
+
+        <RelativeLayout
+            android:id="@+id/button_holder_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="10dp">
+
+            <Button
+                android:id="@+id/btn_take_snap"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/circle_btn_background"
+                android:drawableTop="@drawable/ic_photo_camera"
+                android:paddingTop="17dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:layout_centerInParent="false"
+                android:src="@drawable/dots1f" />
+
+
+            <Button
+                android:id="@+id/btn_select_image"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/circle_btn_background"
+                android:drawableTop="@drawable/ic_select_image"
+                android:paddingTop="17dp" />
+
+        </RelativeLayout>
+
+
+
+    </RelativeLayout>
+
+</FrameLayout>

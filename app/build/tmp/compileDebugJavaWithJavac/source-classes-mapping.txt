@@ -1,0 +1,28 @@
+com/nusry/text/BuildConfig.java
+ com.nusry.text.BuildConfig
+com/nusry/text/adapter/PageAdapter.java
+ com.nusry.text.adapter.PageAdapter
+com/nusry/text/Permission.java
+ com.nusry.text.Permission
+ com.nusry.text.Permission$1
+ com.nusry.text.Permission$2
+com/nusry/text/animation/ZoomOutPageTransformer.java
+ com.nusry.text.animation.ZoomOutPageTransformer
+com/nusry/text/MainActivity.java
+ com.nusry.text.MainActivity
+com/nusry/text/fragments/ResultLayout.java
+ com.nusry.text.fragments.ResultLayout
+ com.nusry.text.fragments.ResultLayout$1
+ com.nusry.text.fragments.ResultLayout$2
+ com.nusry.text.fragments.ResultLayout$3
+ com.nusry.text.fragments.ResultLayout$4
+ com.nusry.text.fragments.ResultLayout$5
+com/nusry/text/splash_screen.java
+ com.nusry.text.splash_screen
+ com.nusry.text.splash_screen$1
+com/nusry/text/fragments/MainLayout.java
+ com.nusry.text.fragments.MainLayout
+ com.nusry.text.fragments.MainLayout$1
+ com.nusry.text.fragments.MainLayout$2
+ com.nusry.text.fragments.MainLayout$3
+ com.nusry.text.fragments.MainLayout$4

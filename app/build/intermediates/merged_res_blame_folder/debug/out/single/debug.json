@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_layout.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\layout\\fragment_main_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dots1f.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\dots1f.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi_scanner_logo.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable-tvdpi\\scanner_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dots1.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\dots1.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_scanner_logo.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable-xxxhdpi\\scanner_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_button.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\my_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dots2f.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\dots2f.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scanner_logo.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable-mdpi\\scanner_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_select_image.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\ic_select_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_save_confirmation.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\layout\\dialog_save_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_scanner_logo.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable-xxhdpi\\scanner_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_result_layout.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\layout\\fragment_result_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save_btn_background.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\save_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_scanner_logo.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable-xhdpi\\scanner_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_btn_background.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\circle_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appbar_background.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\appbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signin_background.jpg.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\signin_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scanner_logo.png.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable-hdpi\\scanner_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_camera.xml.flat",
+        "source": "C:\\Users\\nusry\\Desktop\\Text-Recognition\\app\\src\\main\\res\\drawable\\ic_photo_camera.xml"
+    }
+]

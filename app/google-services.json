@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649865796863",
+    "firebase_url": "https://textscanning.firebaseio.com",
+    "project_id": "textscanning",
+    "storage_bucket": "textscanning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649865796863:android:85a28fdec4d7f658bbc0ca",
+        "android_client_info": {
+          "package_name": "com.nusry.text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649865796863-dnv7b35dkp0pfoommmpf1k7gniupsavj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz_3IJUzwB_PkTFxsPyLd0eJPWZX0lBtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649865796863-dnv7b35dkp0pfoommmpf1k7gniupsavj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
